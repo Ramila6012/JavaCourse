@@ -9,7 +9,6 @@ public class Test {
         BMW obj = new BMW();
         obj.engineType();
         System.out.println(obj.userName);
-        Vehicle.VEHICLE_TYPE = "Fuel";
         System.out.println(Vehicle.VEHICLE_TYPE);
 
     }
