@@ -1,0 +1,2 @@
+This is another file where we are writing some random thing
+We are going to read from this file as well.

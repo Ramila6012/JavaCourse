@@ -1,0 +1,6 @@
+Let's test if the data is included in this file
+My name is Ramila Chaulagain
+I am learning Java
+My class starts at 8:00 p.m
+I just had my dinner
+
